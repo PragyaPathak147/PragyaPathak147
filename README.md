@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragya_Pathak-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-your_email%40gmail.com-red?logo=gmail)](mailto:pathakpragya2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pathakpragya2006%40gmail.com-red?logo=gmail)](mailto:pathakpragya2006@gmail.com)
 
 ---
 
