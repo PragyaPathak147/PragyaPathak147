@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragya_Pathak-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-your_email%40gmail.com-red?logo=gmail)](mailto:your_email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-your_email%40gmail.com-red?logo=gmail)](mailto:pathakpragya2006@gmail.com)
 
 ---
 
@@ -19,7 +19,7 @@
 ### 🚀 Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📊 Data Analytics
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
