@@ -40,10 +40,4 @@
 ![VS Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📈 GitHub Activity
-![](https://nirzak-streak-stats.vercel.app/?user=PragyaPathak147&theme=dark&hide_border=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
