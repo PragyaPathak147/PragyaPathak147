@@ -44,9 +44,6 @@
 ## 📈 GitHub Activity
 ![](https://nirzak-streak-stats.vercel.app/?user=PragyaPathak147&theme=dark&hide_border=true)
 
-### ✍️ Random Data Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
